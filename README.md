@@ -1,4 +1,4 @@
-#pdf_merge
+# pdf_merge
 
 This directory contains a simple graphical interface for merging PDF files.
 
