@@ -1,4 +1,4 @@
-#pdf_merge
+# pdf_merge
 
 This directory contains a simple graphical interface for merging PDF files.
 
@@ -38,7 +38,7 @@ First, put all the files to be merged in the same folder.
 once the interface is launched you should see the following window open:
 
 <p align="center">
-<img src="img/interface.png" alt="ONE-PIX principle" width="500"/>
+<img src="img/interface.PNG" alt="interface image " width="500"/>
 </p>
 
 - select by hard pressing the top button the folder containing the pdfs to be merged
